@@ -1,23 +1,21 @@
-# CarRental_Backend
 
 ## Application Description 
+Car Registration for Rental 
 
 Car rental backend :
-
 - CRUD 
-
 - Authentification Sécurisée 
-
 
 ## Technologies Utilisées :
 
-- Spring Boot + Spring Security 
+- Backend : 
+    * Spring Boot + Spring Security 
+    * Base de données : SQLite3
+    * Authentification en SAAS avec Auth0 
 
-- Base de données : SQLite3
-
-- Authentification en SAAS avec Auth0 
-
-- FrontEnd : Angular5 , Bootstrap4 
+- FrontEnd : https://github.com/EmnaAzizi/CarRental_frontend_Angular
+   * Angular5 
+   * Bootstrap4 
 
 
 

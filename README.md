@@ -9,7 +9,7 @@ Car rental backend :
 ## Technologies Utilisées :
 
 - Backend : 
-    * Spring Boot + Spring Security 
+    * Spring Boot 
     * Base de données : SQLite3
     * Authentification en SAAS avec Auth0 
 

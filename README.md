@@ -13,6 +13,8 @@ Car rental backend :
 
 - Spring Boot + Spring Security 
 
+- Base de données : SQLite3
+
 - Authentification en SAAS avec Auth0 
 
 - FrontEnd : Angular5 , Bootstrap4 
